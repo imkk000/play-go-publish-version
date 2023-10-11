@@ -1,5 +1,5 @@
 package greeting
 
 func GreetEnglish() string {
-	return "Hello There V6"
+	return "Hello There V7"
 }
